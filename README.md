@@ -60,11 +60,4 @@ Quick glance at:
 - Out of Stock: Notebooks & Peripherals
 - Excess Inventory: Networking & Storage
 
----
-
-## 📁 Repository Structure
-
-```bash
-📦BI360-Dashboard-Atliq/
-│
-├── [Click here to access](https://app.powerbi.com/view?r=eyJrIjoiZDllZWRkODMtYmQ0NC00YjQ5LWJiY2EtZWRlYjA3MTM4ZjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click here to access](https://app.powerbi.com/view?r=eyJrIjoiZDllZWRkODMtYmQ0NC00YjQ5LWJiY2EtZWRlYjA3MTM4ZjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
