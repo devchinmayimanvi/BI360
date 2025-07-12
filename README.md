@@ -67,8 +67,4 @@ Quick glance at:
 ```bash
 📦BI360-Dashboard-Atliq/
 │
-├── 📂 Assets/             # Screenshots or exported PDFs of dashboard views
-├── 📂 Data/               # Sample or anonymized dataset (if available)
-├── 📂 PowerBI/            # .pbix file (Power BI project file)
-├── README.md              # Project documentation
-└── LICENSE                # License (MIT or as applicable)
+├── [Click here to access](https://app.powerbi.com/view?r=eyJrIjoiZDllZWRkODMtYmQ0NC00YjQ5LWJiY2EtZWRlYjA3MTM4ZjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
